@@ -1,3 +1,5 @@
+/* This app.js file does the following: 1) Sets up the routes, and 2) sets the view engine for the app */
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
