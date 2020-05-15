@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/062ead87-e2aa-410e-8237-c769eb976116/resourceGroups/kenlo-teams-ecosystem/providers/Microsoft.Web/sites/nae-express-demo",
+    "appService.deploySubpath": ""
+}
